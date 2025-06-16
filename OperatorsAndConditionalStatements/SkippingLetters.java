@@ -13,3 +13,16 @@ class SkippingLetters{
         }
     }
 }
+/*
+Sample Input 1
+Combine
+4
+Sample Output 1
+Combne
+________________
+Sample Input 2
+Completeness
+12
+Sample Output 2
+Completeness
+*/
